@@ -1,0 +1,25 @@
+<style>
+#main {
+  background-color: #fdf4e6;
+}
+#title {
+  color: #0c1a40;
+  align="center";
+  }
+#image { 
+  display: block;
+  max-width: 100%;
+  margin: 0 auto;
+  }
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 30px;
+  color: #051052;
+}
+p {
+  font-size: 16px;
+  font-family: 
+}
+</style>
